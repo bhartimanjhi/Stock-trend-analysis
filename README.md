@@ -47,4 +47,3 @@ This project is a **Stock Trend Analysis Dashboard** that allows users to fetch 
 - **plotly** – Interactive visualizations  
 - **streamlit** – Dashboard UI  
 - **streamlit_autorefresh** – Auto-refresh dashboard
-- 
